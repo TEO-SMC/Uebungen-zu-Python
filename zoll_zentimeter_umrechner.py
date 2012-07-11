@@ -10,7 +10,7 @@ fehler = 1
 
 #While-Schleife
 while fehler == 1:
-    print("Bitte geben Sie den Zoll-Wert an welcher in Zentimeter umgewandelt werden soll, um das Programm zu beenden geben Sie bitte den Wert 0 an.")
+    print("Bitte geben Sie den Zoll-Wert an, welcher in Zentimeter umgewandelt werden soll, um das Programm zu beenden geben Sie bitte den Wert 0 an.")
     z = input()
 
 #Versuch Eingabe in Zahl umzuwandeln
