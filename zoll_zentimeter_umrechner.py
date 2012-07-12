@@ -22,7 +22,7 @@ while fehler == 1:
             print ("Sie haben das Programm beendet")
             fehler = 0
 
-#Ausgabe des Umgewandelten Wertes
+#Ausgabe des umgewandelten Wertes
         else:
             print(zahl, "Zoll =", zahl*2.54, "cm")
 
