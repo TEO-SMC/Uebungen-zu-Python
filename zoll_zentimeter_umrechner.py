@@ -21,8 +21,8 @@ while fehler == 1:
 #Fehlermeldung 1
     except:
         print("Sie haben keinen passenden Wert eingegeben, bitte versuchen Sie es erneut.")
+        continue
     
-
 #Verzweigung 1 
     if vorauswahlz == 1:
         print("Bitte geben Sie den Zentimeter-Wert an, welcher in Zoll umgewandelt werden soll, um das Programm zu beenden geben Sie bitte den Wert 0 an.")
@@ -41,6 +41,7 @@ while fehler == 1:
     else:
         print("Sie haben keinen passenden Wert angegeben bitte versuchen Sie es erneut")
         fehler = 1
+        continue
 
 #Versuch Eingabe in Zahl umzuwandeln 2
     try:
