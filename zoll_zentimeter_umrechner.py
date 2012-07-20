@@ -1,5 +1,5 @@
 # -*- coding: cp1252 -*-
-# Zoll zu Zentimeter Umrechner (C) Tom Eschment test 1234
+# Zoll zu Zentimeter Umrechner (C) Tom Eschment
 
 #Ausgabe
 print("Zoll zu Zentimeter Umrechner (C) Tom Eschment")
